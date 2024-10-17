@@ -1,5 +1,1175 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 211260,
+      "end_time": 211260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The following recitations occur midway through McClure's reading with Allen Ginsberg on June 16, 1976 at the Naropa Institute's summer session (the Jack Kerouac School of Disembodied Poetics). The plan was to offer attendees a Beat retrospective of sorts. In Ginsberg's own words, \"Michael and I decided that, for the evening, it would be interested to go back historically and read some of the same texts that we first read together the first time we read together . . . this evening we're going to . . . alternate readings, beginning with a very brief presentation by myself and then a brief presentation by him, and then longer trading back-and-forth, five- and ten-minute sections, improvising the time as we go.\" Ginsberg begins by reading a selection from \"Howl\" and McClure by reading \"For the Death of 100 Whales,\" both poems debuted in 1955 at the Six Gallery reading in San Francisco. In her introductory remarks, Anne Waldman shares a brief account of their friendship, beginning with their first \"official meet[ing]\" at a party for W.H. Auden in 1954 and extending to previous collaborations between McClure and Ginsberg, including readings together in 1965 during the Berkeley Vietnam peace protests and in the 1967 \"Be-in\" in San Francisco, \"with Suzuki-Roshi [ShunryÅ« Suzuki] on the stage,\" as well as a host of other \"Timothy Leary benefits\" and \"om orgies.\" Waldman concludes that \"this reading is a continuation of some kind of poetic-karmic link between these two poets.\" It is also, implicitly, a continuation of illustrious Beat history."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "dd8cf453-2475-420d-8e30-d75e241519a5"
+    },
+    {
+      "start_time": 211320,
+      "end_time": 211980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm going to read a couple of poems in Beast Language which are actually from the early '60s and not the '50s, and then we're going to take a break-ten minutes or so."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "851f81be-c55c-4b9c-9394-ae96035e93d3"
+    },
+    {
+      "start_time": 212220,
+      "end_time": 213240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "McClure reads the first three and a half lines of Geoffrey Chaucer's Canterbury Tales. It was a regular habit of McClure's to recite these lines before public performances of Ghost Tantras. The gesture \"suggest[s] the origins of his poetry in early English verse,\" as Michael Davidson notes (86). On the day he shot the USA Poetry episode at the San Francisco Zoo, McClure also recited Chaucer to the tree kangaroos, for whom \"beast language was not right\" (Kahn 340). Several months after the reading at Naropa, on November 25, 1976, McClure recited from the opening of Chaucer's prologue on stage at San Francisco's Winterland Ballroom during The Band's famous farewell concert, immortalized in Martin Scorsese's The Last Waltz (1978)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "c1407272-6372-4509-a6b0-7a419f35315a"
+    },
+    {
+      "start_time": 212280,
+      "end_time": 212820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whan that Aprill with his shoures soote The droghte of March hath perced to the roote, And bathed every veyne in switch licour Of which vertu"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "22b29e6b-d29a-4a7d-ab46-f26ba51251f2"
+    },
+    {
+      "start_time": 212820,
+      "end_time": 213300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's Chaucer actually. It makes a nice introduction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "e7872f78-66a1-4233-8e13-6b4e7644dc1c"
+    },
+    {
+      "start_time": 213540,
+      "end_time": 3629,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "McClure reads Ghost Tantra 51, page _____. As in many of his printed poems, McClure centers the Ghost Tantras down the page's middle, an aesthetic strategy Davidson regards as beastly in its own right: \"McClure compares the physical shape of his poems to biological organisms.Instead of returning to the left margin, the line asserts itself boldly as a free image, connected to the other lines like ribs to the spinal column\" (86). In light of McClure's performance and the digital lyric archive more broadly, Davidson's observation that this meaningful shapeliness makes the line not \"a score for the voice\" but \"a separate object among other objects\" takes on curious significance. By what means can we account *both* for the line's printed objecthood *and* the sonorous objecthood captured and audible, in this instance, on digitized tape? Even more to the point, how can we account for the historically-specific performance of McClure's recitation--his expressive re-citation of a printed text on June 16, 1976, the dynamic relation between page and speech, his 'Michael McClure, Reading voice.' I have taken advantage of the fact that McClure's recitation precisely reflects the printed version to respect the poem's printed lineation in my transcriptions below. Ideally, the critical act of reading and listening simultaneously will evoke the tension at the heart of the Michael McClure, Reading voice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "788c8e5a-6509-4ca7-91e7-6428a28ac5f5"
+    },
+    {
+      "start_time": 213600,
+      "end_time": 213780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I LOVE TO THINK OF THE RED PURPLE ROSE"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "c3882c9e-b2c7-4fbd-b4f6-1387e464ca55"
+    },
+    {
+      "start_time": 213840,
+      "end_time": 213960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "IN THE DARKNESS COOLED BY THE NIGHT"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "2949ee3a-9569-43cb-92e6-ef3d5a482388"
+    },
+    {
+      "start_time": 214020,
+      "end_time": 214260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are served by machines making satins of sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "657f3c4d-cf9e-4278-89d7-a6f7c01fbe1b"
+    },
+    {
+      "start_time": 214320,
+      "end_time": 214560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Each blot of sound is a bud or a stahr."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "dfc56200-38d9-4346-a930-14a045a83dd4"
+    },
+    {
+      "start_time": 214620,
+      "end_time": 214800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Body eats bouquets of the ear's vista."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "5d3eb578-ba7f-4492-a7b2-e2e28790a861"
+    },
+    {
+      "start_time": 214860,
+      "end_time": 215280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gahhhrrr booody eyes eers noze deem thou."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "24685906-0ce0-4399-a8ee-b79cef8556f7"
+    },
+    {
+      "start_time": 215340,
+      "end_time": 215460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NOH. NAH-OHH"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "6ebcaf64-2458-448c-a28b-86624d61d315"
+    },
+    {
+      "start_time": 215460,
+      "end_time": 215760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "hrooor. VOOOR-NAH! GAHROOOOO ME."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "60529345-5d05-4d5d-a57c-be14a83fe73f"
+    },
+    {
+      "start_time": 215820,
+      "end_time": 3600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nah droooooh seerch. NAH THEE!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "1550ef91-6add-41c8-aa50-072e40e05efc"
+    },
+    {
+      "start_time": 3600,
+      "end_time": 3606,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The machines are too dull when we are lion poems that move & breathe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "02cb1d94-a403-44fe-8c58-966c37bdf2c3"
+    },
+    {
+      "start_time": 3606,
+      "end_time": 3612,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "WHAN WE GROOOOOOOOOOOOOOR hann dree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "d5a308f4-e0f0-40f0-9aed-e0f4918b0e1a"
+    },
+    {
+      "start_time": 3612,
+      "end_time": 3617,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "myketoth sharoo sreee thah noh deeeeeemed ez."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "35ba1c0c-02b8-42ff-9652-a43810a74a11"
+    },
+    {
+      "start_time": 3617,
+      "end_time": 3619,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whan. eeeethoooze hrohh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "8a433d10-dbb5-4c9c-ae56-e4994fa92ef9"
+    },
+    {
+      "start_time": 3622,
+      "end_time": 3630,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        }
+      ],
+      "uuid": "59a5b67a-7ec8-4630-9042-9ebb8edc3124"
+    },
+    {
+      "start_time": 3629,
+      "end_time": 3629,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To listen for the social voice is to apprehend the lived histories telescoped in a performer's embodied vocal expression. McClure's speech is the liquid instrument of an avid performer, one that betrays no especially particular regional distinctiveness save perhaps slightly nasal, slight ironic casualness of his generational milieu. As McClure moves in and out of beast language, letting the phonemic order of English dissolve into long vowels wrapped in deliciously indulged alveolar approximates and glottal fricatives, he means for us to hear the body, as it were. More particularly, though, we hear the 43-year-old male-gendered body that spent its childhood between Kansas and the Pacific Northwest and its adulthood in countercultural California."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "bdfc90c3-cf06-4027-bdce-20bbd5c69b9d"
+    },
+    {
+      "start_time": 3630,
+      "end_time": 3636,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was always afraid to recite this other one. Although I knew it by heart, I was afraid to recite it because I thought I might not be able to stop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "9508c402-887b-4ddb-8cc7-d9d95ebe74f8"
+    },
+    {
+      "start_time": 3638,
+      "end_time": 3647,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's very mantric. And I thought I'd be giving a reading and they'll carry me away at the end. I'll still be going Grahhr! Grahhr! So,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "202fd7a2-91af-49f7-82d6-b2a0f421071a"
+    },
+    {
+      "start_time": 3648,
+      "end_time": 3661,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "recently I was in one of John Lilly's isolation tanks and I thought, what a perfect time to do this thing I've always been afraid to do. [Audience laughs] What difference would it make here? So I did, and I did know it by heart, but I think I'll read it here anyway."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "eaedd31f-0d29-4885-a266-36d0ba961a94"
+    },
+    {
+      "start_time": 3663,
+      "end_time": 3668,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "SILENCE THE EYES! BECALM THE SENSES!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "165d2225-4e1d-4fac-ab85-09ee1234a552"
+    },
+    {
+      "start_time": 3669,
+      "end_time": 3674,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Drive drooor from the fresh repugnance,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "7be0f8e0-9c40-4f08-aa4a-f8f5e26b0720"
+    },
+    {
+      "start_time": 3674,
+      "end_time": 3677,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "thou whole, thou feeling creature."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "604eac47-64de-46c6-89e0-d3ff82021bc3"
+    },
+    {
+      "start_time": 3678,
+      "end_time": 3681,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Live not for others but affect thyself"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "b027bfbb-6f6c-4054-b63d-79450a41adfe"
+    },
+    {
+      "start_time": 3682,
+      "end_time": 3686,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "from thy enhanced interior--believing what thou carry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "1adb0976-a128-4fcd-ad53-e47d52905042"
+    },
+    {
+      "start_time": 3686,
+      "end_time": 3692,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thy trillionic multitude of grahh, vhooshes, and silences."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "63fbffd1-f7b4-4373-8f77-1d8c07c0c035"
+    },
+    {
+      "start_time": 3692,
+      "end_time": 3696,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh you are heavier and dimmer than you knew"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "a68171aa-51ce-4721-bde4-08a1e03e9f30"
+    },
+    {
+      "start_time": 3696,
+      "end_time": 3698,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and more solid and full of pleasure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "57497aca-e68a-45c9-a541-39c15dd78c43"
+    },
+    {
+      "start_time": 3698,
+      "end_time": 3707,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Grahhr! Grahhhr! Ghrahhhrrr! Ghrahhr! Grahhrrr."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "4a320ae0-5480-43e1-aac2-6db71df0e63f"
+    },
+    {
+      "start_time": 3707,
+      "end_time": 3714,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Grahhrr-grahhhrr! Grahhr. Gahrahhrr Ghrahhhrrrr."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "91f52b6a-d40f-4373-af61-4ec143f816f8"
+    },
+    {
+      "start_time": 3715,
+      "end_time": 3723,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ghrarrrr. Ghrahhr! Ghrarrrrr. Gharrrr. Grahhrr."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "b3e36c28-79ea-4ab9-bfb0-bef66c274a26"
+    },
+    {
+      "start_time": 3723,
+      "end_time": 3730,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ghrahhrr. Ghrahr. Grahhr. Grahharrr. Grahhrr."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "450c7e83-f188-4374-bd9b-2cd9aebe0911"
+    },
+    {
+      "start_time": 3730,
+      "end_time": 3741,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Grahhhhr. Grahhhr. Gahar. Ghrahhr. Grahhr. Grahhr."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "845a199c-5e5b-42c6-bd5d-f10da33eab8b"
+    },
+    {
+      "start_time": 3741,
+      "end_time": 3750,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ghrahhr. Grahhhr. Grahhr. Gratharrr! Grahhr."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "76c11508-3e17-43f3-8a35-6610e1c6077a"
+    },
+    {
+      "start_time": 3750,
+      "end_time": 3759,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ghrahrr. Ghraaaaaaahrr. Grhar. Ghhrarrr! Grahhrr."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "4b97fbdf-c2e3-4c37-895d-7ceaed280e18"
+    },
+    {
+      "start_time": 3759,
+      "end_time": 3767,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ghrahrr. Gharr! Ghrahhhhr. Grahhrr. Ghraherrr."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael McClure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "548f5030-7dd2-4ab9-ad23-825f799764de"
+    },
+    {
+      "start_time": 3768,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Situated"
+        }
+      ],
+      "uuid": "717bafc7-b0df-4281-843b-a21d97cc6c4e"
+    }
+  ],
   "set": "Default",
   "event_id": "4d7d7654-829d-46d0-a15b-e738bfffb410",
   "source_id": "81bea5ab-20d2-4ff6-a762-d8f311044ee4"
