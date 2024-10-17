@@ -1,0 +1,79 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This should contain just one file (i.e. it should not include a file picker)"
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "4d7d7654-829d-46d0-a15b-e738bfffb410",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "end": 300,
+      "file": "dc5a01f5-e8d4-4878-9c17-56c592759bde",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This should contain an entire event, including a file picker:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "4d7d7654-829d-46d0-a15b-e738bfffb410",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "file": "",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Embedded Event test",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "embedded-event-test",
+  "created_at": "2024-10-17T16:43:37.299Z",
+  "created_by": "camdendotlol",
+  "updated_at": "2024-10-17T16:43:37.315Z",
+  "updated_by": "camdendotlol"
+}
