@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "2c065f20-0be0-4bab-b988-84ac73b35979": {
+      "label": "AV file 1",
+      "is_offline": false,
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/149/546/original/spokenweb__readings___discussion_by_ifeoma_chinwuba_and_titilope_sonuga_%281080p%29.mp4",
+      "duration": 5279
+    },
+    "0a443b89-077c-4bb2-8ff8-c5b021dcc7f2": {
+      "label": "AV file 2",
+      "is_offline": false,
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/149/546/original/spokenweb__readings___discussion_by_ifeoma_chinwuba_and_titilope_sonuga_%281080p%29.mp4",
+      "duration": 5279
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "hi"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "Video Event",
+  "created_at": "2024-10-17T14:25:59.461Z",
+  "created_by": "camdendotlol",
+  "updated_at": "2024-10-17T14:25:59.461Z",
+  "updated_by": "camdendotlol"
+}
