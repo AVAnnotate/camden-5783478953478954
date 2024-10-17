@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-10-17T14:26:59.005Z",
+  "created_by": "camdendotlol",
+  "title": "Audio Event",
+  "slug": "audio-event",
+  "updated_at": "2024-10-17T14:26:59.005Z",
+  "updated_by": "camdendotlol",
+  "parent": "1c8055d4-42c8-4ea7-a940-e898ae1f9aaf",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "4d7d7654-829d-46d0-a15b-e738bfffb410"
+  }
+}
