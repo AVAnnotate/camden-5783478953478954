@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I shouldn't appear on the SpongeBob video."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fc20bd29-1156-4ab2-9195-8bd27ae58f60"
+    }
+  ],
   "set": "Default",
   "event_id": "921fc4f2-3f9d-424c-8830-21f0f1be864e",
   "source_id": "0a443b89-077c-4bb2-8ff8-c5b021dcc7f2"
