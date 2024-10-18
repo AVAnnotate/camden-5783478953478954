@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-10-18T19:11:44.816Z",
+  "created_by": "camdendotlol",
+  "title": "Video Event With One AV File",
+  "slug": "video-event-with-one-av-file",
+  "updated_at": "2024-10-18T19:11:44.816Z",
+  "updated_by": "camdendotlol",
+  "parent": "1c8055d4-42c8-4ea7-a940-e898ae1f9aaf",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "55fdf54b-71f2-4ac0-bc0f-cd867f7545ce"
+  }
+}

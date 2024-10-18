@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "63b3b940-eeb1-4b91-962a-e1a0a002d65f": {
+      "label": "spongebob",
+      "is_offline": false,
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Voice_Acting_Tips_with_Tom_Kenny.webm",
+      "duration": 667
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "sponge bob"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "Video Event With One AV File",
+  "created_at": "2024-10-18T19:11:44.630Z",
+  "created_by": "camdendotlol",
+  "updated_at": "2024-10-18T19:11:44.630Z",
+  "updated_by": "camdendotlol"
+}
