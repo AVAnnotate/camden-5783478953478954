@@ -1,0 +1,52 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "55fdf54b-71f2-4ac0-bc0f-cd867f7545ce",
+        "file": "63b3b940-eeb1-4b91-962a-e1a0a002d65f"
+      },
+      "event2": {
+        "uuid": "921fc4f2-3f9d-424c-8830-21f0f1be864e",
+        "file": "63b3b940-eeb1-4b91-962a-e1a0a002d65f"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Video Event Comparison",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "video-event-comparison",
+  "created_at": "2024-10-21T20:27:41.596Z",
+  "created_by": "camdendotlol",
+  "updated_at": "2024-10-21T20:27:41.596Z",
+  "updated_by": "camdendotlol"
+}
