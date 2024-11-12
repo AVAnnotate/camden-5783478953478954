@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-11-12T20:46:13.694Z",
+  "created_by": "camdendotlol",
+  "title": "Interview 1",
+  "slug": "interview-1",
+  "updated_at": "2024-11-12T20:46:13.694Z",
+  "updated_by": "camdendotlol",
+  "parent": "1c8055d4-42c8-4ea7-a940-e898ae1f9aaf",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "8fdc9ac7-f0cb-45c7-92a2-2f2201833834"
+  }
+}
